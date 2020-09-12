@@ -7,6 +7,6 @@ Os arquivos .csv contém dados de temperatura e vento para as cidades de Curitib
 
 O diretório "images" contém 50 imagens coloridas retiradas da internet.
 
-O diretório "grat_images" contém as 40 imagens escolhidas aleatóriamente e convertidas para a escala cinza.
+O diretório "gray_images" contém as 40 imagens escolhidas aleatóriamente e convertidas para a escala cinza.
 
 O github não conseguiu aprensentar os resultados das execuções das linhas de código (possivelmente pela quantidade de imagens). A solução foi utilizar um visualizador de arquivos ipynb que pode ser acessado pelo link no início da resolução do teste.
