@@ -3,7 +3,7 @@ Teste Cientista de Dados para a empresa Natosafe
 
 O script está no arquivo "natosafe_teste.ipynb"
 
-Os arquivos .csv contém dados de temperatura e vento para as cidades de Curitiba e Foz do Iguaçu. São utilizados no exercícios do histograma.
+Os arquivos .csv contém dados de temperatura e vento para as cidades de Curitiba e Foz do Iguaçu. São utilizados no exercício do histograma.
 
 O diretório "images" contém 50 imagens coloridas retiradas da internet.
 
